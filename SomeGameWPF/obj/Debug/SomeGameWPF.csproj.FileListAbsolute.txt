@@ -1,0 +1,15 @@
+D:\PROJECTS\SomeGameWPF\SomeGameWPF\bin\Debug\SomeGameWPF.exe.config
+D:\PROJECTS\SomeGameWPF\SomeGameWPF\bin\Debug\SomeGameWPF.exe
+D:\PROJECTS\SomeGameWPF\SomeGameWPF\bin\Debug\SomeGameWPF.pdb
+D:\PROJECTS\SomeGameWPF\SomeGameWPF\obj\Debug\SomeGameWPF.csprojAssemblyReference.cache
+D:\PROJECTS\SomeGameWPF\SomeGameWPF\obj\Debug\MainWindow.g.cs
+D:\PROJECTS\SomeGameWPF\SomeGameWPF\obj\Debug\App.g.cs
+D:\PROJECTS\SomeGameWPF\SomeGameWPF\obj\Debug\SomeGameWPF_MarkupCompile.cache
+D:\PROJECTS\SomeGameWPF\SomeGameWPF\obj\Debug\SomeGameWPF_MarkupCompile.lref
+D:\PROJECTS\SomeGameWPF\SomeGameWPF\obj\Debug\MainWindow.baml
+D:\PROJECTS\SomeGameWPF\SomeGameWPF\obj\Debug\SomeGameWPF.g.resources
+D:\PROJECTS\SomeGameWPF\SomeGameWPF\obj\Debug\SomeGameWPF.Properties.Resources.resources
+D:\PROJECTS\SomeGameWPF\SomeGameWPF\obj\Debug\SomeGameWPF.csproj.GenerateResource.cache
+D:\PROJECTS\SomeGameWPF\SomeGameWPF\obj\Debug\SomeGameWPF.csproj.CoreCompileInputs.cache
+D:\PROJECTS\SomeGameWPF\SomeGameWPF\obj\Debug\SomeGameWPF.exe
+D:\PROJECTS\SomeGameWPF\SomeGameWPF\obj\Debug\SomeGameWPF.pdb
